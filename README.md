@@ -28,7 +28,7 @@ The analysis was separated into the following folders:
 
 + Sent to client: Contains the Final Report in PowerPoint presentation.
 
-## *** Tableau Dashboard***
+## ***Tableau Dashboard***
 (https://public.tableau.com/app/profile/andila.haque/viz/GiantSupermarketSalesProfitAnalysis/GiantSupermarket?publish=yes)
 
 
